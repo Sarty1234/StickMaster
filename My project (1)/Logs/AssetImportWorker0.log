@@ -196,3 +196,91 @@ Received Import Request.
 Start importing Assets/Items/Tactical/Poution/New Folder using Guid(a2c2f9779f75af14db071b8e000e893d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b597239b7786b9b0cabed2323e03982') in 0.000716 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 208.052780 seconds.
+  path: Assets/Items/Tactical/Poution/health poution
+  artifactKey: Guid(cf3a387a1b1d45848be64e200cee343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Items/Tactical/Poution/health poution using Guid(cf3a387a1b1d45848be64e200cee343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1257fbd12f1f9098ecb780dc9431c27a') in 0.000827 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 15.007539 seconds.
+  path: Assets/Items/Tactical/Poution/Health poution
+  artifactKey: Guid(cf3a387a1b1d45848be64e200cee343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Items/Tactical/Poution/Health poution using Guid(cf3a387a1b1d45848be64e200cee343b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '303d8254ed8172112407b0669d101830') in 0.000472 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 11.972422 seconds.
+  path: Assets/Items/Tactical/Poution/Health poution/health poison.fbx
+  artifactKey: Guid(6ae67f2fefbc9c74c9b17613feb4e7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Items/Tactical/Poution/Health poution/health poison.fbx using Guid(6ae67f2fefbc9c74c9b17613feb4e7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '413680484b925a7469efb80de05ec73a') in 0.454646 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 180.303731 seconds.
+  path: Assets/Items/Tactical/Poution/Health poution/textures
+  artifactKey: Guid(6285bf713bf61cc4bbb6dccb30058fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Items/Tactical/Poution/Health poution/textures using Guid(6285bf713bf61cc4bbb6dccb30058fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c29589c7406de7e01d478b894abb6838') in 0.000814 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.038497 seconds.
+  path: Assets/Items/Tactical/Poution/Health poution/textures/alpha.png
+  artifactKey: Guid(23432fbab8edd07488acd49f3f1f8812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Items/Tactical/Poution/Health poution/textures/alpha.png using Guid(23432fbab8edd07488acd49f3f1f8812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd3295ecef0387652d351ee325f2648') in 0.038622 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Items/Tactical/Poution/Health poution/textures/transmission.png
+  artifactKey: Guid(3bf56713df51585498c43dcd85188bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Items/Tactical/Poution/Health poution/textures/transmission.png using Guid(3bf56713df51585498c43dcd85188bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca5a94e84c6f18db95202fac947d4a04') in 0.009870 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Items/Tactical/Poution/Health poution/textures/emission.png
+  artifactKey: Guid(5d0a5c5908d7f3d4e9a89bdec1ff06b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Items/Tactical/Poution/Health poution/textures/emission.png using Guid(5d0a5c5908d7f3d4e9a89bdec1ff06b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14a143d98db836e2a8d6815475a7d7e3') in 0.008116 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Items/Tactical/Poution/Health poution/textures/roughness.png
+  artifactKey: Guid(61a80771976d92140a2c7d0d57b8e129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Items/Tactical/Poution/Health poution/textures/roughness.png using Guid(61a80771976d92140a2c7d0d57b8e129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44578154e76556846fe28281cda1fd09') in 0.009201 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Items/Tactical/Poution/Health poution/textures/difuse.png
+  artifactKey: Guid(626a8cab838755141844060715a35854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Items/Tactical/Poution/Health poution/textures/difuse.png using Guid(626a8cab838755141844060715a35854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bc41d100371a9c9bfc10804913408fa') in 0.009149 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Items/Tactical/Poution/Health poution/textures/metal.png
+  artifactKey: Guid(828a97727ce098342ad7c2714b931edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Items/Tactical/Poution/Health poution/textures/metal.png using Guid(828a97727ce098342ad7c2714b931edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c73adfa129a4fef407c7b8891af42891') in 0.009356 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1235.789311 seconds.
+  path: Assets/Items/Tactical/Poution/Health poution/health poison.fbx
+  artifactKey: Guid(6ae67f2fefbc9c74c9b17613feb4e7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Items/Tactical/Poution/Health poution/health poison.fbx using Guid(6ae67f2fefbc9c74c9b17613feb4e7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23a3ca0798e4596150d50c2129f693e5') in 0.037092 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
