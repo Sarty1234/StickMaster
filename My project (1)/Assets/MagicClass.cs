@@ -34,7 +34,7 @@ public class MagicClass : MonoBehaviour
         {
             nextfiretime = Time.time + _reload;
 
-            var shoot = Instance
+            
         }
     }
 }
